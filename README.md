@@ -6,4 +6,4 @@
 * Has an LCD screen
 * Has 3 LEDs(Power, Armed, Countdown
 * Uses a key switch and a button for arming disarming
-* Has a button for the signature beeping
+* Has a buzzer for the signature beeping
